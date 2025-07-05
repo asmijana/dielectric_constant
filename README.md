@@ -26,6 +26,7 @@ dielectric-ml/
 ├── dielectric_model.ipynb       # Main notebook with model pipeline
 ├── models/                      # (Optional) Saved models
 ├── results/                     # (Optional) Plots and logs
+├── experiments/                 # (Optional) Other notebooks (numbered) describing how I got to the final architecture  
 ├── requirements.txt             # Environment dependencies
 └── README.md                    # This file
 ```
